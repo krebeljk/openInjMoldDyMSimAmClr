@@ -1,5 +1,7 @@
 # openInjMoldDyMSimAmClr v1.0
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4308518.svg)](https://doi.org/10.5281/zenodo.4308518)
+
 This is a fork of [openInjMoldSim](https://github.com/krebeljk/openInjMoldSim) for amorphous polymer volumetric relaxation modeling.  
 
 This fork and the cases are described in a [The cooling rate dependence of the specific volume in amorphous
